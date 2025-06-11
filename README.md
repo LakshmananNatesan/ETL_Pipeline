@@ -1,5 +1,5 @@
 # ETL_Pipeline
-# 🛠️ ETL Data Integration Pipeline
+#  ETL Data Integration Pipeline
 
 This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using Python. It combines structured data from multiple file formats — CSV, JSON, and XML — transforms it, and exports a clean, consolidated dataset as a `.csv` file.
 
@@ -19,7 +19,7 @@ etl_project/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - pandas

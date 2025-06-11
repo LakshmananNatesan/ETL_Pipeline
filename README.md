@@ -5,15 +5,15 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 etl_project/
-├── extract.py # Extract logic for CSV, JSON, and XML
-├── transform.py # Data transformation logic
-├── load.py # Save output to CSV
-├── main.py # Main runner script
-├── data/ # Folder containing source files (CSV, JSON, XML)
-├── output/ # Folder where final_report.csv will be saved
-└── README.md # Project documentation
+ extract.py # Extract logic for CSV, JSON, and XML
+ transform.py # Data transformation logic
+ load.py # Save output to CSV
+ main.py # Main runner script
+ data/ # Folder containing source files (CSV, JSON, XML)
+ output/ # Folder where final_report.csv will be saved
+ README.md # Project documentation
 
 
 
@@ -29,7 +29,7 @@ etl_project/
 
 ---
 
-## 🚀 How It Works
+## Procedure
 
 ### 1. **Extract**
 Reads all files from `data/` directory:
